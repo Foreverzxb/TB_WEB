@@ -1,0 +1,3 @@
+body{background-image:url(图片地址，两边括号留着，图片尺寸1920宽，高度自定);background-repeat:no-repeat;background-position:top center;background-attachment:fixed;z-index:-1;}
+
+/*放在导航栏CSS里面*/
